@@ -1,7 +1,7 @@
 # Smooth-CPG
 
-|Name File |Descripcion|
-|----------------|-------------------------------|
+|Name File |Descripcion|Smooth|
+|----------------|-------------------------------|-------------------------------|
 |[01_W0-J2.mp4](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/01_W0-J2.mp4 "01_W0-J2.mp4")|               |    :heavy_check_mark: |
 |[01_W0-J2.png](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/01_W0-J2.png "01_W0-J2.png")|               |    :heavy_check_mark: |
 |[02_W1-J3.mp4](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/02_W1-J3.mp4 "02_W1-J3.mp4")|               |    :heavy_check_mark: |
