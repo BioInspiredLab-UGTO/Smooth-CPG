@@ -1,6 +1,6 @@
 # Smooth-CPG
 | File Name | Description                                                          | Smooth       Transition |
-|-----------|----------------------------------------------------------------------|-------------------------|
+|-----------|----------------------------------------------------------------------|:-------------------------:|
 | [01_W0-J2](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/01_W0-J2.mp4)  | Video showing the   transition from Walking at k=0 to Jogging at K=2 | :heavy_check_mark:                     |
 | [02_W1-J3](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/02_W1-J3.mp4)  | Video showing the   transition from Walking at k=1 to Jogging at K=3 | :heavy_check_mark:                     |
 | [03_W2-J0](https://github.com/BioInspiredLab-UGTO/Smooth-CPG/raw/main/03_W2-J0.mp4)  | Video showing the   transition from Walking at k=2 to Jogging at K=0 | :heavy_multiplication_x:               |
